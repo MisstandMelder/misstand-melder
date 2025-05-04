@@ -160,12 +160,22 @@ export function MisstandForm() {
                       </SelectTrigger>
                     </FormControl>
                     <SelectContent>
-                      <SelectItem value="overheid">Overheid</SelectItem>
-                      <SelectItem value="zorg">Zorg</SelectItem>
-                      <SelectItem value="onderwijs">Onderwijs</SelectItem>
-                      <SelectItem value="bedrijfsleven">Bedrijfsleven</SelectItem>
-                      <SelectItem value="overig">Overig</SelectItem>
-                    </SelectContent>
+  <SelectItem value="bureaucratie">Bureaucratie</SelectItem>
+  <SelectItem value="corruptie">Corruptie</SelectItem>
+  <SelectItem value="dienstverlening">Dienstverlening</SelectItem>
+  <SelectItem value="gezondheidszorg">Gezondheidszorg</SelectItem>
+  <SelectItem value="klantenservice">Klantenservice</SelectItem>
+  <SelectItem value="maatschappelijke_onrechtvaardigheid">Maatschappelijke Onrechtvaardigheid</SelectItem>
+  <SelectItem value="onderwijs">Onderwijs</SelectItem>
+  <SelectItem value="overheid">Overheid</SelectItem>
+  <SelectItem value="privacykwesties">Privacykwesties</SelectItem>
+  <SelectItem value="schending_van_rechten">Schending van Rechten</SelectItem>
+  <SelectItem value="staatsbedrijf">Staatsbedrijf</SelectItem>
+  <SelectItem value="verkeerde_behandeling">Verkeerde Behandeling</SelectItem>
+  <SelectItem value="woningmarkt">Woningmarkt</SelectItem>
+  <SelectItem value="werkgelegenheid">Werkgelegenheid</SelectItem>
+  <SelectItem value="overig">Overig</SelectItem>
+</SelectContent>
                   </Select>
                   <FormMessage />
                 </FormItem>
