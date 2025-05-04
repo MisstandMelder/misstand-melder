@@ -8,8 +8,9 @@
 2. Vul je ervaring in en genereer een AI-prompt voor een Google Review.
 3. Plaats je review op Google Maps om instellingen wakker te schudden. Bijvoorbeeld:
 
-    > "Mijn ervaring met het Zaans Medisch Centrum was teleurstellend. Een wond werd niet persoonlijk onderzocht, en contact met specialisten verliep via een callcenter, zelfs bij hoge pijnscores. Dit gebrek aan menselijkheid had een grote emotionele impact. Ik hoop dat deze feedback leidt tot structurele verbetering."  
-    – Jan Jansen
+    > *"Mijn ervaring met het Zaans Medisch Centrum was teleurstellend. Een wond werd niet persoonlijk onderzocht, en contact met specialisten verliep via een callcenter, zelfs bij hoge pijnscores. Dit gebrek aan menselijkheid had een grote emotionele impact. Ik hoop dat deze feedback leidt tot structurele verbetering."*  
+– Jan Jansen
+
 
 ## Bijdragen
 
