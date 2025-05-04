@@ -1,4 +1,3 @@
-# misstand-melder
 # MisstandMelder
 
 **MisstandMelder** is een gratis, open-source platform waarmee je misstanden in Nederland (zoals corruptie, bureaucratie, en gebrek aan menselijkheid) kunt aankaarten via krachtige Google Reviews. Dit platform is van iedereen en is bedoeld om burgers te helpen systeemfouten bloot te leggen, zoals die in de zorg, overheid, of bedrijven.
