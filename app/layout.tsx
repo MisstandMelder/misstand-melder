@@ -9,7 +9,10 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "MisstandMelder - Meld misstanden in Nederland",
   description: "Een gratis platform om misstanden in Nederland aan te kaarten via krachtige Google Reviews",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
